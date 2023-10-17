@@ -1,9 +1,15 @@
 .l-header{
   background-color:red;
-  padding:auto;
+  padding:5px;
+  margin:20px;
+  width:100px;
+  height:30px;
 }
 
 .l-main{
-
-  background-color:green;
+  padding:5px;
+  margin:20px;
+  width:100px;
+  height:30px;
+  background-color:blue;
 }
