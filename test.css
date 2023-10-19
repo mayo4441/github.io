@@ -8,9 +8,17 @@
 }
 
 .l-main{
+  display:flex;
   border: 6px solid black;
   padding: 20px;
   margin: 20px;
   width: 400px;
   background-color:rgba(0,255,0,0.2);
+}
+.l-side{
+  border: 6px solid black;
+  padding: 20px;
+  margin: 20px;
+  width: 400px;
+  background-color:rgba(0,0,255,0.2);
 }
